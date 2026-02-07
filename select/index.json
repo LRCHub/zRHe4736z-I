@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "DANCING ALONE",
+  "base_artist": "KiiiKiii",
+  "createdAt": "2026-02-07T11:22:38.225840Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dancing Alone",
+      "artist": "Ashlee Simpson",
+      "has_synced": true,
+      "path": "select/01_Dancing_Alone_Ashlee_Simpson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dancing Alone",
+      "artist": "Axwell Λ Ingrosso feat. RØMANS",
+      "has_synced": true,
+      "path": "select/02_Dancing_Alone_Axwell_Λ_Ingrosso_feat._RØMANS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Intro - You Should Be Dancing / Alone (Live)",
+      "artist": "Bee Gees",
+      "has_synced": false,
+      "path": "select/03_Intro_-_You_Should_Be_Dancing___Alone_(Live)_Bee_Gees.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dancing Alone",
+      "artist": "Axwell /\\ Ingrosso feat. RØMANS",
+      "has_synced": true,
+      "path": "select/04_Dancing_Alone_Axwell___Ingrosso_feat._RØMANS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dancing Alone",
+      "artist": "Axwell /\\ Ingrosso, RØMANS",
+      "has_synced": true,
+      "path": "select/05_Dancing_Alone_Axwell___Ingrosso,_RØMANS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dancing Alone",
+      "artist": "Axwell Λ Ingrosso, RØMANS",
+      "has_synced": true,
+      "path": "select/06_Dancing_Alone_Axwell_Λ_Ingrosso,_RØMANS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Intro - You Should Be Dancing/Alone [Live - Las Vegas 1997]",
+      "artist": "Bee Gees",
+      "has_synced": false,
+      "path": "select/07_Intro_-_You_Should_Be_Dancing_Alone_[Live_-_Las_Vegas_1997]_Bee_Gees.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Intro: You Should Be Dancing / Alone",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/08_Intro__You_Should_Be_Dancing___Alone_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dancing Alone",
+      "artist": "Ours",
+      "has_synced": true,
+      "path": "select/09_Dancing_Alone_Ours.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dancing Alone",
+      "artist": "Axwell __ Ingrosso",
+      "has_synced": true,
+      "path": "select/10_Dancing_Alone_Axwell____Ingrosso.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dancing Alone",
+      "artist": "VIZE",
+      "has_synced": true,
+      "path": "select/11_Dancing_Alone_VIZE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dancing Alone",
+      "artist": "Infected Rain",
+      "has_synced": true,
+      "path": "select/12_Dancing_Alone_Infected_Rain.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dancing Alone",
+      "artist": "Axwell ∧ Ingrosso & Rømans",
+      "has_synced": true,
+      "path": "select/13_Dancing_Alone_Axwell_∧_Ingrosso_&_Rømans.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dancing Alone",
+      "artist": "Chancellor",
+      "has_synced": false,
+      "path": "select/14_Dancing_Alone_Chancellor.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dancing, Alone",
+      "artist": "Ten Tonnes",
+      "has_synced": true,
+      "path": "select/15_Dancing,_Alone_Ten_Tonnes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DANCING ALONE",
+      "artist": "KiiiKiii",
+      "has_synced": false,
+      "path": "select/pl_01_DANCING_ALONE_KiiiKiii.txt"
+    }
+  ]
+}
