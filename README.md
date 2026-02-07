@@ -1,0 +1,74 @@
+# KiiiKiii – DANCING ALONE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+When I'm dancing alone
+I'm not dreaming alone
+I can feel it!
+두 번 다신 안 올
+찬란한 순간을
+느껴 Feel it!
+Pony tail 앉아 봐
+묶어줄게 Just a little higher
+Cherry slush, Icy cold
+So hot today 너부터 한 모금
+쓸쓸한 미소, 걔는 널 몰라
+You got that Somethin'! 내가 잘 알아
+한숨 툭, 같이 건너는 Bridge
+Day and night
+I'm by your side
+When I'm dancing alone
+I'm not dreaming alone
+I can feel it!
+두 번 다신 안 올
+찬란한 순간을
+느껴 Feel it!
+몰라 몰라 너 따라 웃음
+우연처럼 똑같은 Dance Move, Yeah
+Dancing alone
+Now I'm dancing alone
+Yes I feel it!
+쌍쌍바, 반띵 Tok
+아무 고민 없이 더 큰 쪽이 네 꺼
+하얀 콩, 한 쪽씩
+몰래 너랑 나랑 담아 듣는 Playlist
+Day and night
+I'm by your side
+When I'm dancing alone
+I'm not dreaming alone
+I can feel it!
+두 번 다신 안 올
+찬란한 순간을
+느껴 Feel it!
+몰라 몰라 너 따라 웃음
+우연처럼 똑같은 Dance Move, Yeah
+Dancing alone
+Now I'm dancing alone
+Yes I feel it!
+Yeah yeah yeah
+Yeah yeah yeah
+Dancing alone
+Yeah yeah yeah
+Dancing on my own
+Yeah, 딱 하나 약속할게 저 하늘 아래
+지금 이 느낌대로 춤 추기를 바라
+Someday I see you dancin' in the sky
+말없이 눈물로 다들 떠나가도
+네 편 할게
+너가 왜 미안해
+오히려 너를 꼭 안아줄게
+네 미소가 나에겐 기쁨
+우연처럼 똑같은 Dance Move, Yeah
+Dancing alone
+Now I'm dancing alone
+Yes I feel it!
+Yeah yeah yeah
+Yeah yeah yeah
+Yeah yeah yeah
+Dancing on my own
+Yeah yeah yeah
+Yeah yeah yeah
+Yeah yeah yeah
+Dancing on my own
+```
